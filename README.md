@@ -1,3 +1,4 @@
+### Different GUIs of the website ###
 ![ecom_home](https://github.com/user-attachments/assets/9bfd07dc-7da1-45de-a299-8740af5260bb)
 ![Screenshot (180)](https://github.com/user-attachments/assets/b21ec75c-67b5-4fc5-b303-b9b5b050e916)
 ![Screenshot (176)](https://github.com/user-attachments/assets/8d674ec4-a2a3-40d2-afb2-f743f6dfcdaa)
